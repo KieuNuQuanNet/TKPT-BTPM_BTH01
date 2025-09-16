@@ -1,0 +1,14 @@
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FactoryMethod\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FactoryMethod\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FactoryMethod.AssemblyInfoInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FactoryMethod\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FactoryMethod.AssemblyInfo.cs
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FactoryMethod\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FactoryMethod.csproj.CoreCompileInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FactoryMethod\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FactoryMethod.exe
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FactoryMethod\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FactoryMethod.deps.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FactoryMethod\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FactoryMethod.runtimeconfig.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FactoryMethod\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FactoryMethod.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FactoryMethod\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FactoryMethod.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FactoryMethod\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FactoryMethod.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FactoryMethod\obj\Debug\net9.0\refint\DPM225404_DO QUOC BAO_pattern01_FactoryMethod.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FactoryMethod\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FactoryMethod.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FactoryMethod\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FactoryMethod.genruntimeconfig.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FactoryMethod\obj\Debug\net9.0\ref\DPM225404_DO QUOC BAO_pattern01_FactoryMethod.dll
