@@ -1,0 +1,14 @@
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MYREAL01_Prototype\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MYREAL01_Prototype.exe
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MYREAL01_Prototype\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MYREAL01_Prototype.deps.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MYREAL01_Prototype\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MYREAL01_Prototype.runtimeconfig.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MYREAL01_Prototype\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MYREAL01_Prototype.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MYREAL01_Prototype\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MYREAL01_Prototype.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MYREAL01_Prototype\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MYREAL01_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MYREAL01_Prototype\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MYREAL01_Prototype.AssemblyInfoInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MYREAL01_Prototype\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MYREAL01_Prototype.AssemblyInfo.cs
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MYREAL01_Prototype\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MYREAL01_Prototype.csproj.CoreCompileInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MYREAL01_Prototype\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MYREAL01_Prototype.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MYREAL01_Prototype\obj\Debug\net9.0\refint\DPM225404_DO QUOC BAO_MYREAL01_Prototype.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MYREAL01_Prototype\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MYREAL01_Prototype.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MYREAL01_Prototype\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MYREAL01_Prototype.genruntimeconfig.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MYREAL01_Prototype\obj\Debug\net9.0\ref\DPM225404_DO QUOC BAO_MYREAL01_Prototype.dll
