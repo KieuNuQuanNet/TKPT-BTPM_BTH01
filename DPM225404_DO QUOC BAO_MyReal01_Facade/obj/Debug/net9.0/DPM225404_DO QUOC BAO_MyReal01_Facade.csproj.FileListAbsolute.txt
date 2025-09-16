@@ -1,0 +1,14 @@
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Facade\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Facade.exe
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Facade\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Facade.deps.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Facade\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Facade.runtimeconfig.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Facade\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Facade.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Facade\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Facade.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Facade\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Facade.GeneratedMSBuildEditorConfig.editorconfig
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Facade\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Facade.AssemblyInfoInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Facade\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Facade.AssemblyInfo.cs
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Facade\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Facade.csproj.CoreCompileInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Facade\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Facade.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Facade\obj\Debug\net9.0\refint\DPM225404_DO QUOC BAO_MyReal01_Facade.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Facade\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Facade.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Facade\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Facade.genruntimeconfig.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Facade\obj\Debug\net9.0\ref\DPM225404_DO QUOC BAO_MyReal01_Facade.dll
