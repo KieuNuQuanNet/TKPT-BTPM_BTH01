@@ -1,0 +1,14 @@
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattren01_Singleton\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattren01_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattren01_Singleton\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattren01_Singleton.AssemblyInfoInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattren01_Singleton\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattren01_Singleton.AssemblyInfo.cs
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattren01_Singleton\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattren01_Singleton.csproj.CoreCompileInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattren01_Singleton\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattren01_Singleton.exe
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattren01_Singleton\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattren01_Singleton.deps.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattren01_Singleton\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattren01_Singleton.runtimeconfig.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattren01_Singleton\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattren01_Singleton.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattren01_Singleton\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattren01_Singleton.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattren01_Singleton\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattren01_Singleton.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattren01_Singleton\obj\Debug\net9.0\refint\DPM225404_DO QUOC BAO_pattren01_Singleton.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattren01_Singleton\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattren01_Singleton.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattren01_Singleton\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattren01_Singleton.genruntimeconfig.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattren01_Singleton\obj\Debug\net9.0\ref\DPM225404_DO QUOC BAO_pattren01_Singleton.dll
