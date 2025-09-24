@@ -1,0 +1,14 @@
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real_TemplateMethod\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Real_TemplateMethod.exe
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real_TemplateMethod\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Real_TemplateMethod.deps.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real_TemplateMethod\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Real_TemplateMethod.runtimeconfig.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real_TemplateMethod\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Real_TemplateMethod.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real_TemplateMethod\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Real_TemplateMethod.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real_TemplateMethod\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Real_TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real_TemplateMethod\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Real_TemplateMethod.AssemblyInfoInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real_TemplateMethod\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Real_TemplateMethod.AssemblyInfo.cs
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real_TemplateMethod\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Real_TemplateMethod.csproj.CoreCompileInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real_TemplateMethod\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Real_TemplateMethod.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real_TemplateMethod\obj\Debug\net9.0\refint\DPM225404_DO QUOC BAO_Real_TemplateMethod.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real_TemplateMethod\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Real_TemplateMethod.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real_TemplateMethod\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Real_TemplateMethod.genruntimeconfig.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real_TemplateMethod\obj\Debug\net9.0\ref\DPM225404_DO QUOC BAO_Real_TemplateMethod.dll
