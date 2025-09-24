@@ -1,0 +1,14 @@
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern_Strategy\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern_Strategy.exe
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern_Strategy\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern_Strategy.deps.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern_Strategy\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern_Strategy.runtimeconfig.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern_Strategy\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern_Strategy.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern_Strategy\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern_Strategy.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern_Strategy\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern_Strategy.GeneratedMSBuildEditorConfig.editorconfig
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern_Strategy\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern_Strategy.AssemblyInfoInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern_Strategy\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern_Strategy.AssemblyInfo.cs
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern_Strategy\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern_Strategy.csproj.CoreCompileInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern_Strategy\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern_Strategy.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern_Strategy\obj\Debug\net9.0\refint\DPM225404_DO QUOC BAO_pattern_Strategy.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern_Strategy\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern_Strategy.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern_Strategy\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern_Strategy.genruntimeconfig.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern_Strategy\obj\Debug\net9.0\ref\DPM225404_DO QUOC BAO_pattern_Strategy.dll
