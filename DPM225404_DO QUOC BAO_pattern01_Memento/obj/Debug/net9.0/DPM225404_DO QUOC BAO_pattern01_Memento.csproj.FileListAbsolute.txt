@@ -1,0 +1,14 @@
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_Memento\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_Memento.exe
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_Memento\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_Memento.deps.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_Memento\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_Memento.runtimeconfig.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_Memento\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_Memento.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_Memento\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_Memento.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_Memento\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_Memento.GeneratedMSBuildEditorConfig.editorconfig
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_Memento\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_Memento.AssemblyInfoInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_Memento\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_Memento.AssemblyInfo.cs
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_Memento\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_Memento.csproj.CoreCompileInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_Memento\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_Memento.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_Memento\obj\Debug\net9.0\refint\DPM225404_DO QUOC BAO_pattern01_Memento.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_Memento\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_Memento.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_Memento\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_Memento.genruntimeconfig.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_Memento\obj\Debug\net9.0\ref\DPM225404_DO QUOC BAO_pattern01_Memento.dll
