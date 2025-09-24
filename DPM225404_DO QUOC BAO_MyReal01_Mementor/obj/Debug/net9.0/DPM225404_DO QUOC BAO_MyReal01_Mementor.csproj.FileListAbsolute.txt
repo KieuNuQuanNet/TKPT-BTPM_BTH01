@@ -1,0 +1,14 @@
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Mementor\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Mementor.exe
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Mementor\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Mementor.deps.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Mementor\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Mementor.runtimeconfig.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Mementor\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Mementor.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Mementor\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Mementor.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Mementor\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Mementor.GeneratedMSBuildEditorConfig.editorconfig
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Mementor\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Mementor.AssemblyInfoInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Mementor\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Mementor.AssemblyInfo.cs
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Mementor\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Mementor.csproj.CoreCompileInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Mementor\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Mementor.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Mementor\obj\Debug\net9.0\refint\DPM225404_DO QUOC BAO_MyReal01_Mementor.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Mementor\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Mementor.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Mementor\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal01_Mementor.genruntimeconfig.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal01_Mementor\obj\Debug\net9.0\ref\DPM225404_DO QUOC BAO_MyReal01_Mementor.dll

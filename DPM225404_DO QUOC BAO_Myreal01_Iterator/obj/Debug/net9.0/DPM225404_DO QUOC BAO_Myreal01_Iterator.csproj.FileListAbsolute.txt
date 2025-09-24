@@ -1,0 +1,14 @@
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreal01_Iterator\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Myreal01_Iterator.exe
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreal01_Iterator\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Myreal01_Iterator.deps.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreal01_Iterator\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Myreal01_Iterator.runtimeconfig.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreal01_Iterator\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Myreal01_Iterator.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreal01_Iterator\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Myreal01_Iterator.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreal01_Iterator\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Myreal01_Iterator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreal01_Iterator\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Myreal01_Iterator.AssemblyInfoInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreal01_Iterator\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Myreal01_Iterator.AssemblyInfo.cs
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreal01_Iterator\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Myreal01_Iterator.csproj.CoreCompileInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreal01_Iterator\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Myreal01_Iterator.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreal01_Iterator\obj\Debug\net9.0\refint\DPM225404_DO QUOC BAO_Myreal01_Iterator.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreal01_Iterator\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Myreal01_Iterator.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreal01_Iterator\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Myreal01_Iterator.genruntimeconfig.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreal01_Iterator\obj\Debug\net9.0\ref\DPM225404_DO QUOC BAO_Myreal01_Iterator.dll
