@@ -1,0 +1,14 @@
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreak01_Obsetver\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Myreak01_Obsetver.exe
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreak01_Obsetver\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Myreak01_Obsetver.deps.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreak01_Obsetver\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Myreak01_Obsetver.runtimeconfig.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreak01_Obsetver\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Myreak01_Obsetver.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreak01_Obsetver\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Myreak01_Obsetver.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreak01_Obsetver\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Myreak01_Obsetver.GeneratedMSBuildEditorConfig.editorconfig
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreak01_Obsetver\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Myreak01_Obsetver.AssemblyInfoInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreak01_Obsetver\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Myreak01_Obsetver.AssemblyInfo.cs
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreak01_Obsetver\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Myreak01_Obsetver.csproj.CoreCompileInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreak01_Obsetver\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Myreak01_Obsetver.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreak01_Obsetver\obj\Debug\net9.0\refint\DPM225404_DO QUOC BAO_Myreak01_Obsetver.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreak01_Obsetver\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Myreak01_Obsetver.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreak01_Obsetver\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Myreak01_Obsetver.genruntimeconfig.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Myreak01_Obsetver\obj\Debug\net9.0\ref\DPM225404_DO QUOC BAO_Myreak01_Obsetver.dll

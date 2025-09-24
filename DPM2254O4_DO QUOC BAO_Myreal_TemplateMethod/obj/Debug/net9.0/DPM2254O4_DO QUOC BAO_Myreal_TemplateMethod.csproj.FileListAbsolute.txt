@@ -1,0 +1,14 @@
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod\bin\Debug\net9.0\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod.exe
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod\bin\Debug\net9.0\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod.deps.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod\bin\Debug\net9.0\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod.runtimeconfig.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod\bin\Debug\net9.0\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod\bin\Debug\net9.0\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod\obj\Debug\net9.0\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod\obj\Debug\net9.0\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod.AssemblyInfoInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod\obj\Debug\net9.0\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod.AssemblyInfo.cs
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod\obj\Debug\net9.0\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod.csproj.CoreCompileInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod\obj\Debug\net9.0\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod\obj\Debug\net9.0\refint\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod\obj\Debug\net9.0\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod\obj\Debug\net9.0\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod.genruntimeconfig.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod\obj\Debug\net9.0\ref\DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod.dll

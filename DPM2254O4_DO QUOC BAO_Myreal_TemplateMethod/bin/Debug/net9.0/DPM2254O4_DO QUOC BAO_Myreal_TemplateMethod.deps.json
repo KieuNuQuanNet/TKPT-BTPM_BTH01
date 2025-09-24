@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod/1.0.0": {
+        "runtime": {
+          "DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DPM2254O4_DO QUOC BAO_Myreal_TemplateMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
