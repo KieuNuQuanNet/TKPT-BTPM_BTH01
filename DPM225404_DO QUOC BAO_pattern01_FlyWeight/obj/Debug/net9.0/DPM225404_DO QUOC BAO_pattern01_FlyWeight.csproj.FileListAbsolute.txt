@@ -1,0 +1,14 @@
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FlyWeight\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FlyWeight.exe
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FlyWeight\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FlyWeight.deps.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FlyWeight\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FlyWeight.runtimeconfig.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FlyWeight\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FlyWeight.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FlyWeight\bin\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FlyWeight.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FlyWeight\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FlyWeight.GeneratedMSBuildEditorConfig.editorconfig
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FlyWeight\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FlyWeight.AssemblyInfoInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FlyWeight\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FlyWeight.AssemblyInfo.cs
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FlyWeight\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FlyWeight.csproj.CoreCompileInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FlyWeight\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FlyWeight.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FlyWeight\obj\Debug\net9.0\refint\DPM225404_DO QUOC BAO_pattern01_FlyWeight.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FlyWeight\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FlyWeight.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FlyWeight\obj\Debug\net9.0\DPM225404_DO QUOC BAO_pattern01_FlyWeight.genruntimeconfig.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_pattern01_FlyWeight\obj\Debug\net9.0\ref\DPM225404_DO QUOC BAO_pattern01_FlyWeight.dll
