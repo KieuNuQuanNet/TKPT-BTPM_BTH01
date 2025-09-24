@@ -1,0 +1,14 @@
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal_Proxy\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal_Proxy.exe
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal_Proxy\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal_Proxy.deps.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal_Proxy\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal_Proxy.runtimeconfig.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal_Proxy\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal_Proxy.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal_Proxy\bin\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal_Proxy.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal_Proxy\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal_Proxy.GeneratedMSBuildEditorConfig.editorconfig
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal_Proxy\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal_Proxy.AssemblyInfoInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal_Proxy\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal_Proxy.AssemblyInfo.cs
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal_Proxy\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal_Proxy.csproj.CoreCompileInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal_Proxy\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal_Proxy.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal_Proxy\obj\Debug\net9.0\refint\DPM225404_DO QUOC BAO_MyReal_Proxy.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal_Proxy\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal_Proxy.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal_Proxy\obj\Debug\net9.0\DPM225404_DO QUOC BAO_MyReal_Proxy.genruntimeconfig.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_MyReal_Proxy\obj\Debug\net9.0\ref\DPM225404_DO QUOC BAO_MyReal_Proxy.dll
