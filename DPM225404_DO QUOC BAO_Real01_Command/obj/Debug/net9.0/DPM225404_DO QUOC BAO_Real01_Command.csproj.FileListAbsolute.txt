@@ -1,0 +1,14 @@
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real01_Command\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Real01_Command.GeneratedMSBuildEditorConfig.editorconfig
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real01_Command\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Real01_Command.AssemblyInfoInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real01_Command\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Real01_Command.AssemblyInfo.cs
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real01_Command\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Real01_Command.csproj.CoreCompileInputs.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real01_Command\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Real01_Command.exe
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real01_Command\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Real01_Command.deps.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real01_Command\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Real01_Command.runtimeconfig.json
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real01_Command\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Real01_Command.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real01_Command\bin\Debug\net9.0\DPM225404_DO QUOC BAO_Real01_Command.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real01_Command\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Real01_Command.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real01_Command\obj\Debug\net9.0\refint\DPM225404_DO QUOC BAO_Real01_Command.dll
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real01_Command\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Real01_Command.pdb
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real01_Command\obj\Debug\net9.0\DPM225404_DO QUOC BAO_Real01_Command.genruntimeconfig.cache
+F:\Môn Hiện Tại\Thiết kế, phát triển và bảo trì phần mềm\Bai TH1\DPM225404_DOQUOCBAO\DPM225404_DO QUOC BAO_Real01_Command\obj\Debug\net9.0\ref\DPM225404_DO QUOC BAO_Real01_Command.dll
